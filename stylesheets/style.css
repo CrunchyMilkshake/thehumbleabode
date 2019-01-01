@@ -14,6 +14,14 @@ body {
 #map {
   height: auto;
 }
+.parent {
+   width: 600px;
+   height: 420px;
+}
+.parent img {
+   height: 100%;
+   width: 100%;
+}
 img {
     border: 0;
     padding-left: 42px;
