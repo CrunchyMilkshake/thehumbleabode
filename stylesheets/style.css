@@ -14,11 +14,11 @@ body {
 #map {
   height: auto;
 }
-.about {
+.banner {
    width: 600px;
    height: 420px;
 }
-.about img {
+.banner img {
    height: 100%;
    width: 100%;
 }
