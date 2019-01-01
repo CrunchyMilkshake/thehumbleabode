@@ -11,6 +11,9 @@ body {
   background: rgb(42, 42, 42);
   background: linear-gradient(90deg, rgba(42, 42, 42, 1) 0%, rgba(26, 26, 26, 1) 15%, rgba(0, 0, 0, 1) 50%, rgba(26, 26, 26, 1) 85%, rgba(42, 42, 42, 1) 100%);
 }
+#map {
+  height: auto;
+}
 img {
     border: 0;
     padding-left: 42px;
