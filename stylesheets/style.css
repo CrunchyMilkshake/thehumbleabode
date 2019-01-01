@@ -14,11 +14,11 @@ body {
 #map {
   height: auto;
 }
-.parent {
+.about {
    width: 600px;
    height: 420px;
 }
-.parent img {
+.about img {
    height: 100%;
    width: 100%;
 }
