@@ -25,7 +25,7 @@ body {
 }
 img {
     border: 0;
-    padding-left: 42px;
+    padding-left: -42px;
 }
 .navbar-default {
   background-color: #e3e3e3;
